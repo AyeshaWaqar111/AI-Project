@@ -49,7 +49,7 @@ except ImportError:
     print("Warning: Required LangChain packages not installed")
 
 # Gemini API Key (hardcoded)
-GEMINI_API_KEY = "AIzaSyAOxW_vwEk50WbyjIyHB6m9AJ4ovj4-www"
+GEMINI_API_KEY = "ENTER_YOUR_GEMINI_API_KEY"
 print(f"✓ GEMINI_API_KEY configured: {GEMINI_API_KEY[:10]}...{GEMINI_API_KEY[-4:]}")
 print(f"✓ HUGGINGFACE_API_TOKEN configured: {HUGGINGFACE_API_TOKEN[:10]}...{HUGGINGFACE_API_TOKEN[-4:]}")
 
