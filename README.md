@@ -12,22 +12,22 @@ Project Overview
 
 Project Features
 1. Quiz Evaluation
-    AI semantically evaluates students’ answers
-    Supports multiple quiz types
+    1. AI semantically evaluates students’ answers
+    2. Supports multiple quiz types
 2. Personalized Study Plans
-    Generates tailored study recommendations based on student performance
-    Tracks strengths and weaknesses
+    1. Generates tailored study recommendations based on student performance
+    2. Tracks strengths and weaknesses
 3. Student Progress Tracking
-    Maintains student quiz history
-    Displays progress visually
+    1. Maintains student quiz history
+    2. Displays progress visually
 4. Database Management
-    SQLite/CSV-based storage for quizzes and student data
-    Scripts for setup, updates, and viewing
+    1. SQLite/CSV-based storage for quizzes and student data
+    2. Scripts for setup, updates, and viewing
 5. Interactive UI
-    Built with Streamlit for easy navigation and interaction
+    1. Built with Streamlit for easy navigation and interaction
 6. AI Integration
-    Gemini setup (or other AI models) to process answers
-    Test scripts for AI topics included
+    1. Gemini setup (or other AI models) to process answers
+    2. Test scripts for AI topics included
 
 Installation & Setup
 1. Clone the repository
