@@ -31,34 +31,34 @@ Project Features
 
 Installation & Setup
 1. Clone the repository
-git clone https://github.com/yourusername/AI_Teacher_Assistant.git
-cd Al_Teacher_Assistant
+   1. git clone https://github.com/yourusername/AI_Teacher_Assistant.git
+   2. cd Al_Teacher_Assistant
 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate     # Linux / Mac
-venv\Scripts\activate        # Windows
+   1. python -m venv venv
+   2. source venv/bin/activate     # Linux / Mac
+   3. venv\Scripts\activate        # Windows
 3. Install dependencies
-pip install -r requirements/requirements.txt
+   1. pip install -r requirements/requirements.txt
 4. Setup database
-python src/setup_database.py
+   1. python src/setup_database.py
 5. Start the application
-streamlit run src/start_frontend.py
+   1. streamlit run src/start_frontend.py
 
 Usage:
-Navigate to the Streamlit UI
-Create or select a student
-Take quizzes and submit answers
-View personalized study plans and progress reports
+1. Navigate to the Streamlit UI
+2. Create or select a student
+3. Take quizzes and submit answers
+4. View personalized study plans and progress reports
 
 Testing:
-Test AI topics evaluation:
-python src/test_ai_topics.py
-Test backend functionality:
-python src/test_backend.py
-Test student progress updates:
-python src/update_student_progress_table.py
+1. Test AI topics evaluation:
+2. python src/test_ai_topics.py
+3. Test backend functionality:
+4. python src/test_backend.py
+5. Test student progress updates:
+6. python src/update_student_progress_table.py
 
 Contributing
-Fork the repository
+  1. Fork the repository
 Make changes in a new branch
 Submit a Pull Request
