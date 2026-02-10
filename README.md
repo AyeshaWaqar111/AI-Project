@@ -2,13 +2,13 @@ AI Teacher Assistant
 An Intelligent AI Tutor for Personalized Learning
 
 Project Overview
-The AI Teacher Assistant is an intelligent system designed to assist students in learning by:
-Conducting quizzes for students
-Semantically evaluating answers
-Generating personalized study plans based on quiz performance
-Tracking student progress over time
-Providing interactive UI via Streamlit for a user-friendly experience
-This project demonstrates AI integration, Python programming, database management, and web-based interfaces.
+ The AI Teacher Assistant is an intelligent system designed to assist students in learning by:
+ Conducting quizzes for students
+ Semantically evaluating answers
+ Generating personalized study plans based on quiz performance
+ Tracking student progress over time
+ Providing interactive UI via Streamlit for a user-friendly experience
+ This project demonstrates AI integration, Python programming, database management, and web-based interfaces.
 
 Project Features
 1. Quiz Evaluation
