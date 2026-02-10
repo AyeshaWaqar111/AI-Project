@@ -3,31 +3,31 @@ An Intelligent AI Tutor for Personalized Learning
 
 Project Overview
  The AI Teacher Assistant is an intelligent system designed to assist students in learning by:
- Conducting quizzes for students
- Semantically evaluating answers
- Generating personalized study plans based on quiz performance
- Tracking student progress over time
- Providing interactive UI via Streamlit for a user-friendly experience
- This project demonstrates AI integration, Python programming, database management, and web-based interfaces.
+1. Conducting quizzes for students
+2. Semantically evaluating answers
+3. Generating personalized study plans based on quiz performance
+4. Tracking student progress over time
+5. Providing interactive UI via Streamlit for a user-friendly experience
+6. This project demonstrates AI integration, Python programming, database management, and web-based interfaces.
 
 Project Features
 1. Quiz Evaluation
-AI semantically evaluates students’ answers
-Supports multiple quiz types
+    AI semantically evaluates students’ answers
+    Supports multiple quiz types
 2. Personalized Study Plans
-Generates tailored study recommendations based on student performance
-Tracks strengths and weaknesses
+    Generates tailored study recommendations based on student performance
+    Tracks strengths and weaknesses
 3. Student Progress Tracking
-Maintains student quiz history
-Displays progress visually
+    Maintains student quiz history
+    Displays progress visually
 4. Database Management
-SQLite/CSV-based storage for quizzes and student data
-Scripts for setup, updates, and viewing
+    SQLite/CSV-based storage for quizzes and student data
+    Scripts for setup, updates, and viewing
 5. Interactive UI
-Built with Streamlit for easy navigation and interaction
+    Built with Streamlit for easy navigation and interaction
 6. AI Integration
-Gemini setup (or other AI models) to process answers
-Test scripts for AI topics included
+    Gemini setup (or other AI models) to process answers
+    Test scripts for AI topics included
 
 Installation & Setup
 1. Clone the repository
